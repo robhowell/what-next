@@ -1,5 +1,7 @@
 {
   "name": "what-next",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }

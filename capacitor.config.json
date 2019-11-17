@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "com.flymobileapps.whatnext",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
