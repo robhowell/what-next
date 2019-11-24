@@ -3,18 +3,16 @@ import React from 'react';
 
 import Checklist from '../components/Checklist'
 
-const Home: React.FC = () => {
-  return (
+const Home: React.FC = () => (
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Ionic Blank</IonTitle>
+          <IonTitle>What Next</IonTitle>
         </IonToolbar>
       </IonHeader>
 
       <Checklist/>
     </IonPage>
   );
-};
 
 export default Home;
